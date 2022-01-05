@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/pufferbommy/minimal-darcula-theme/main/minimal-darcula-theme.omp.json",
   "blocks": [
     {
       "type": "prompt",
